@@ -34,3 +34,9 @@ The system is open-sourced and can be used freely.
 - Run php artisan migrate and php artisan db:seed
 - Don't forget to check the UserSeeder for the credentials of the user
 - After that run php artisan serve and voila! You can now use the system.
+
+## Sample Images
+- Index page
+![Local Image](inde-page.jpeg)
+- Property Page
+![Local Image](property-page.jpeg)
