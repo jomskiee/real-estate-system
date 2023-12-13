@@ -1,4 +1,3 @@
-
 ## About Real Estate System
 
 Real Estate System is a Laravel framework web-based system that helps property seekers look for information on any kind of property in that location and helps
